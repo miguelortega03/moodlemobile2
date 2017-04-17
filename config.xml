@@ -2,7 +2,7 @@
 <widget id="com.ina.moodlemobile" version="2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
   <name>Moodle Mobile INA</name>
   <description>Official Moodle Mobile app INA</description>
-  <author href="http://inacap.cl" email="m_ortega@inacap.cl">Juan Leyva</author>
+  <author href="http://inacap.cl" email="m_ortega@inacap.cl">Miguel Ortega</author>
   <content src="index.html"/>
   <access origin="*"/>
   <allow-navigation href="cdvfile:*"/>
